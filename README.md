@@ -6,3 +6,4 @@ testing, change management and Git workflows.
 Name: Claudia Sánchez Nieto
 Professor: Richard Aviles Lopez
 
+Remote update: change made directly on GitHub.
